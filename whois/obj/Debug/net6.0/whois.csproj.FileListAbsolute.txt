@@ -1,0 +1,28 @@
+C:\Users\730688.ADIR\source\repos\whois\bin\Debug\net6.0\whois.exe
+C:\Users\730688.ADIR\source\repos\whois\bin\Debug\net6.0\whois.deps.json
+C:\Users\730688.ADIR\source\repos\whois\bin\Debug\net6.0\whois.runtimeconfig.json
+C:\Users\730688.ADIR\source\repos\whois\bin\Debug\net6.0\whois.dll
+C:\Users\730688.ADIR\source\repos\whois\bin\Debug\net6.0\whois.pdb
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\whois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\whois.AssemblyInfoInputs.cache
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\whois.AssemblyInfo.cs
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\whois.csproj.CoreCompileInputs.cache
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\whois.dll
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\refint\whois.dll
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\whois.pdb
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\whois.genruntimeconfig.cache
+C:\Users\730688.ADIR\source\repos\whois\obj\Debug\net6.0\ref\whois.dll
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\bin\Debug\net6.0\whois.exe
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\bin\Debug\net6.0\whois.deps.json
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\bin\Debug\net6.0\whois.runtimeconfig.json
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\bin\Debug\net6.0\whois.dll
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\bin\Debug\net6.0\whois.pdb
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\whois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\whois.AssemblyInfoInputs.cache
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\whois.AssemblyInfo.cs
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\whois.csproj.CoreCompileInputs.cache
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\whois.dll
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\refint\whois.dll
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\whois.pdb
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\whois.genruntimeconfig.cache
+C:\Users\730688\OneDrive - hull.ac.uk\Downloads\whois\networking-2-updated--main\whois\obj\Debug\net6.0\ref\whois.dll
